@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Web課程用'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14114F0E236243E1B2CD4E371AAC35DE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82E3C9553B0448B381F0509304630DD9 }}
           package: .
